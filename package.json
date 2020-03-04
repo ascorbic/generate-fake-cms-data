@@ -1,0 +1,20 @@
+{
+  "name": "@ascorbic/generate-dummy-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "devDependencies": {
+    "@types/faker": "^4.1.10",
+    "@types/fs-extra": "^8.1.0",
+    "@types/node": "^13.7.7",
+    "@types/yargs": "^15.0.4"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "fs-extra": "^8.1.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.3",
+    "yargs": "^15.1.0"
+  }
+}
