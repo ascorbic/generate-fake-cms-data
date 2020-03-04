@@ -4,7 +4,7 @@ Install:
 
 ```bash
 
-git clone git@github.com:ascorbic/generate-dummy-data.git
+git clone git@github.com:ascorbic/generate-fake-cms-data.git
 yarn
 
 ```
