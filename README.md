@@ -1,4 +1,4 @@
-# Generate dummy markdown JSON
+# Generate fake markdown JSON
 
 Install:
 
